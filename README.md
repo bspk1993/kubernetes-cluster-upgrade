@@ -1,4 +1,4 @@
-# kubernetes-cluster-upgrade
+# kubernetes-cluster-upgrade & creation of various components in EKS Cluster
 kubernetes cluster upgrade
 
 
